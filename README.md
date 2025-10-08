@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1200&color=800020&center=true&vCenter=true&width=600&lines=Hello!;My+name+is+Larissa+Pinheiro+❥)](https://git.io/typing-svg)
 
-<h1 align="center">Welcome!</h1>
+<h1 align="center" style="color:#800020; font-family:Poppins;">Welcome!</h1>
 
 <p align="center">
   A creative spirit into fashion, design and digital aesthetics.<br>
@@ -39,14 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=laripinheiroz&show_icons=true&theme=rose_pine" alt="github stats" />
 </p>
 
-<!-- Snake animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laripinheiroz/laripinheiroz/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laripinheiroz/laripinheiroz/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Animation" src="https://raw.githubusercontent.com/laripinheiroz/laripinheiroz/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 <p align="center">
   <picture>
