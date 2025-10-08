@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello!;My+name+is+Larissa+Pinheiro+❥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1200&color=800020&center=true&vCenter=true&width=600&lines=Hello!;My+name+is+Larissa+Pinheiro+❥)](https://git.io/typing-svg)
 
 <h1 align="center">Welcome!</h1>
 
@@ -27,7 +27,7 @@
 ### Connect
 <p align="center">
   <a href="https://instagram.com/izlaari_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=ff69b4" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=800020" alt="Instagram">
   </a>
 </p>
 
@@ -36,22 +36,22 @@
 > “Beauty begins the moment you decide to be yourself.” — Coco Chanel
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larissapinheiroz&show_icons=true&theme=rose_pine" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laripinheiroz&show_icons=true&theme=rose_pine" alt="github stats" />
 </p>
 
 <!-- Snake animation -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larissapinheiroz/larissapinheiroz/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larissapinheiroz/larissapinheiroz/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Animation" src="https://raw.githubusercontent.com/larissapinheiroz/larissapinheiroz/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laripinheiroz/laripinheiroz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laripinheiroz/laripinheiroz/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Animation" src="https://raw.githubusercontent.com/laripinheiroz/laripinheiroz/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larissapinheiroz/larissapinheiroz/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larissapinheiroz/larissapinheiroz/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Animation" src="https://raw.githubusercontent.com/larissapinheiroz/larissapinheiroz/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laripinheiroz/laripinheiroz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laripinheiroz/laripinheiroz/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Animation" src="https://raw.githubusercontent.com/laripinheiroz/laripinheiroz/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
