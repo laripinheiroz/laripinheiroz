@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello!;My+name+is+Larissa+Pinheiro+❥)](https://git.io/typing-svg)
 
-<h1 align="center">My name is Larissa Pinheiro ❥</h1>
+<h1 align="center">Welcome!</h1>
 
 <p align="center">
   A creative spirit into fashion, design and digital aesthetics.<br>
