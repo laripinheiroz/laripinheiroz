@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1200&color=800020&center=true&vCenter=true&width=600&lines=Hello!;My+name+is+Larissa+Pinheiro+❥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1200&color=800020&center=true&vCenter=true&width=600&lines=Hello!;My+name+is+Larissa+Pinheiro+❥)](https://git.io/typing-svg)
 
 <h1 align="center" style="color:#800020; font-family:Poppins;">Welcome!</h1>
 
@@ -30,13 +30,13 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=800020" alt="Instagram">
   </a>
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=laripinheiroz&show_icons=true&theme=maroongold&title_color=800020&icon_color=800020&text_color=3a2e2e&bg_color=fdf5e6" alt="github stats" />
 ---
 
 > “Beauty begins the moment you decide to be yourself.” — Coco Chanel
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laripinheiroz&show_icons=true&theme=rose_pine" alt="github stats" />
+
 </p>
 
 
