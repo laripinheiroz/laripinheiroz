@@ -31,14 +31,6 @@
   </a>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=laripinheiroz&show_icons=true&theme=maroongold&title_color=800020&icon_color=800020&text_color=3a2e2e&bg_color=fdf5e6" alt="github stats" />
----
-
-> “Beauty begins the moment you decide to be yourself.” — Coco Chanel
-
-<p align="center">
-
-</p>
-
 
 <p align="center">
   <picture>
