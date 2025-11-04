@@ -4,16 +4,9 @@
 
 <p align="center">
   A creative spirit into fashion, design and digital aesthetics.<br>
-  Exploring Front-End and UI Design — turning ideas into pretty, usable things.<br>
+  Exploring Front-End and UI Design, turning ideas into pretty, usable things.<br>
   I love everything related to visual storytelling.
 </p>
-
----
-
-### A little about me
-- I'm passionate about books, makeup, art, music and fashion.  
-- Studying Front-End and UI Design; learning tools for visual creation.  
-- Learning English and German.  
 
 ---
 
